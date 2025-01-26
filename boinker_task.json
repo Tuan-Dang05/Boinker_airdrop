@@ -1,0 +1,2556 @@
+{
+    "AnimalsAndCoins125LevelReward3": {
+        "_id": "6751beb2698fae14cdcfe1ac",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoins125LevelReward3",
+        "clickDateTime": "2024-11-17T06:58:44.730Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsGiveawayReward1": {
+        "_id": "6751beb2698fae14cdcfe186",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsGiveawayReward1",
+        "clickDateTime": "2024-11-07T12:15:18.551Z",
+        "claimDateTime": "2024-11-07T17:59:26.230Z",
+        "totalWheelSpinsAwarded": 5,
+        "__v": 0
+    },
+    "AnimalsAndCoinsGiveawayReward2": {
+        "_id": "6751beb2698fae14cdcfe1a9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsGiveawayReward2",
+        "clickDateTime": "2024-11-16T05:41:58.231Z",
+        "claimDateTime": "2024-11-16T05:42:07.048Z",
+        "totalWheelSpinsAwarded": 6,
+        "__v": 0
+    },
+    "AnimalsAndCoinsInstall": {
+        "_id": "6751beb2698fae14cdcfe09c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsInstall",
+        "clickDateTime": "2024-10-08T11:14:15.857Z",
+        "claimDateTime": "2024-11-07T17:59:30.328Z",
+        "totalWheelSpinsAwarded": 7,
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland125": {
+        "_id": "6751beb2698fae14cdcfe0a0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland125",
+        "clickDateTime": "2024-10-08T11:27:06.093Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland250": {
+        "_id": "6751beb2698fae14cdcfe0a2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland250",
+        "clickDateTime": "2024-10-08T11:29:07.810Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland3": {
+        "_id": "6751beb2698fae14cdcfe09d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland3",
+        "clickDateTime": "2024-10-08T11:14:24.288Z",
+        "claimDateTime": "2024-11-08T04:04:25.598Z",
+        "totalGameEnergyAwarded": 600,
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland360": {
+        "_id": "6751beb2698fae14cdcfe0a3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland360",
+        "clickDateTime": "2024-10-08T11:29:12.546Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland400": {
+        "_id": "6751beb2698fae14cdcfe15d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland400",
+        "clickDateTime": "2024-10-30T11:06:35.936Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland55": {
+        "_id": "6751beb2698fae14cdcfe09f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland55",
+        "clickDateTime": "2024-10-08T11:27:02.146Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland600": {
+        "_id": "6751beb2698fae14cdcfe0a4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland600",
+        "clickDateTime": "2024-10-08T11:29:16.703Z",
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland7": {
+        "_id": "6751beb2698fae14cdcfe09e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland7",
+        "clickDateTime": "2024-10-08T11:14:32.172Z",
+        "claimDateTime": "2024-11-08T13:17:12.516Z",
+        "totalWheelSpinsAwarded": 44,
+        "__v": 0
+    },
+    "AnimalsAndCoinsIsland7}": {
+        "_id": "6751beb2698fae14cdcfe0ad",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "AnimalsAndCoinsIsland7}",
+        "clickDateTime": "2024-10-08T11:32:43.606Z",
+        "__v": 0
+    },
+    "CashRushEnergy": {
+        "_id": "6751beb2698fae14cdcfe18d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "CashRushEnergy",
+        "clickDateTime": "2024-11-18T16:20:52.043Z",
+        "claimDateTime": "2024-11-18T16:08:49.893Z",
+        "totalGameEnergyAwarded": 50,
+        "__v": 0
+    },
+    "DiamoreSep18": {
+        "_id": "6751beb2698fae14cdcfe0e7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "DiamoreSep18",
+        "clickDateTime": "2024-10-08T12:44:28.264Z",
+        "claimDateTime": "2024-10-27T13:30:40.518Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "FanzeeEnergy": {
+        "_id": "6751beb2698fae14cdcfe1ad",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "FanzeeEnergy",
+        "clickDateTime": "2024-11-18T16:21:09.402Z",
+        "claimDateTime": "2024-11-18T16:09:07.578Z",
+        "totalGameEnergyAwarded": 10,
+        "__v": 0
+    },
+    "FollowBitgetX": {
+        "_id": "6751beb2698fae14cdcfe0d3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "FollowBitgetX",
+        "clickDateTime": "2024-10-08T12:40:17.546Z",
+        "claimDateTime": "2024-10-08T12:40:28.102Z",
+        "totalCurrencySoftAwarded": 700000,
+        "__v": 0
+    },
+    "ISPYNEnergy": {
+        "_id": "6751beb2698fae14cdcfe154",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "ISPYNEnergy",
+        "clickDateTime": "2024-11-18T16:21:28.032Z",
+        "claimDateTime": "2024-11-18T16:09:25.174Z",
+        "totalGameEnergyAwarded": 120,
+        "__v": 0
+    },
+    "JoinDuckCoop": {
+        "_id": "6751beb2698fae14cdcfe0dc",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "JoinDuckCoop",
+        "clickDateTime": "2024-10-08T12:42:09.567Z",
+        "claimDateTime": "2024-10-08T12:42:19.698Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "KryptonEnergy": {
+        "_id": "6751beb2698fae14cdcfe187",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "KryptonEnergy",
+        "clickDateTime": "2024-11-18T16:20:34.667Z",
+        "claimDateTime": "2024-11-18T16:08:31.663Z",
+        "totalGameEnergyAwarded": 60,
+        "__v": 0
+    },
+    "MergePalsEnergy": {
+        "_id": "6751beb2698fae14cdcfe19c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "MergePalsEnergy",
+        "clickDateTime": "2024-11-18T16:21:00.765Z",
+        "claimDateTime": "2024-11-18T16:08:58.915Z",
+        "totalGameEnergyAwarded": 40,
+        "__v": 0
+    },
+    "MergePalsQuests": {
+        "_id": "6751beb2698fae14cdcfe14d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "MergePalsQuests",
+        "clickDateTime": "2024-10-27T13:30:45.587Z",
+        "__v": 0
+    },
+    "NBPSep18": {
+        "_id": "6751beb2698fae14cdcfe0e6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "NBPSep18",
+        "clickDateTime": "2024-10-08T12:44:13.312Z",
+        "claimDateTime": "2024-10-15T15:50:52.793Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "NotGoldReward": {
+        "_id": "6751beb2698fae14cdcfe09a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "NotGoldReward",
+        "clickDateTime": "2024-10-08T11:13:59.305Z",
+        "__v": 0
+    },
+    "NotPlatinumReward": {
+        "_id": "6751beb2698fae14cdcfe09b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "NotPlatinumReward",
+        "clickDateTime": "2024-10-08T11:14:07.622Z",
+        "__v": 0
+    },
+    "PinEye1": {
+        "_id": "6751beb2698fae14cdcfe108",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "PinEye1",
+        "clickDateTime": "2024-10-13T09:20:53.979Z",
+        "claimDateTime": "2024-10-13T18:50:21.226Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "PlayBAYC": {
+        "_id": "6751beb2698fae14cdcfe0da",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "PlayBAYC",
+        "clickDateTime": "2024-10-08T12:41:45.302Z",
+        "claimDateTime": "2024-10-08T12:41:55.521Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "PlayBBQCoin": {
+        "_id": "6751beb2698fae14cdcfe0db",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "PlayBBQCoin",
+        "clickDateTime": "2024-10-08T12:41:57.619Z",
+        "claimDateTime": "2024-10-08T12:42:07.641Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "SeveralHourlsRewardedAdTask5": {
+        "_id": "6751beb2698fae14cdcfe093",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "SeveralHourlsRewardedAdTask5",
+        "clickDateTime": "2024-11-19T16:09:34.805Z",
+        "claimDateTime": "2024-11-19T16:08:36.468Z",
+        "totalCurrencySoftAwarded": 15750000,
+        "__v": 0
+    },
+    "SeveralHourlsRewardedAdTask6": {
+        "_id": "6751beb2698fae14cdcfe096",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "SeveralHourlsRewardedAdTask6",
+        "clickDateTime": "2024-11-19T16:10:12.948Z",
+        "claimDateTime": "2024-11-19T16:09:12.721Z",
+        "totalCurrencySoftAwarded": 7000000,
+        "__v": 0
+    },
+    "SubscribeDuckCoopChannel": {
+        "_id": "6751beb2698fae14cdcfe0dd",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "SubscribeDuckCoopChannel",
+        "clickDateTime": "2024-10-08T12:42:21.720Z",
+        "claimDateTime": "2024-10-08T12:42:31.736Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "TassBeehEnergy": {
+        "_id": "6751beb2698fae14cdcfe17a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "TassBeehEnergy",
+        "clickDateTime": "2024-11-18T16:20:16.779Z",
+        "claimDateTime": "2024-11-18T16:08:13.946Z",
+        "totalGameEnergyAwarded": 80,
+        "__v": 0
+    },
+    "TonRealmEnergy": {
+        "_id": "6751beb2698fae14cdcfe18c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "TonRealmEnergy",
+        "clickDateTime": "2024-11-18T16:20:43.373Z",
+        "claimDateTime": "2024-11-18T16:08:40.973Z",
+        "totalGameEnergyAwarded": 60,
+        "__v": 0
+    },
+    "VIPWheelSpinsVampire": {
+        "_id": "6751beb2698fae14cdcfe1a0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "VIPWheelSpinsVampire",
+        "clickDateTime": "2024-11-14T17:10:27.711Z",
+        "__v": 0
+    },
+    "VIPWheelSpinsVampireCompetition": {
+        "_id": "6751beb2698fae14cdcfe1a7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "VIPWheelSpinsVampireCompetition",
+        "clickDateTime": "2024-11-15T05:15:13.115Z",
+        "__v": 0
+    },
+    "birdx1": {
+        "_id": "6751beb2698fae14cdcfe0e9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "birdx1",
+        "clickDateTime": "2024-10-08T12:44:53.730Z",
+        "claimDateTime": "2024-10-09T02:54:29.012Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "birdxTelegram1": {
+        "_id": "6751beb2698fae14cdcfe0ea",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "birdxTelegram1",
+        "clickDateTime": "2024-10-08T12:45:05.730Z",
+        "claimDateTime": "2024-10-15T12:23:29.730Z",
+        "totalCurrencySoftAwarded": 700000,
+        "__v": 0
+    },
+    "claimVertus": {
+        "_id": "6751beb2698fae14cdcfe129",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "claimVertus",
+        "clickDateTime": "2024-10-17T12:43:29.441Z",
+        "claimDateTime": "2024-10-17T16:48:18.072Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "connectTonWallet": {
+        "_id": "6751beb2698fae14cdcfe0a8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "connectTonWallet",
+        "clickDateTime": "2024-10-08T11:29:33.021Z",
+        "claimDateTime": "2024-10-11T16:40:45.985Z",
+        "totalCurrencySoftAwarded": 750000,
+        "__v": 0
+    },
+    "dailyVIPEnergyPerk": {
+        "_id": "6751beb2698fae14cdcfe0ff",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "dailyVIPEnergyPerk",
+        "clickDateTime": "2024-10-13T09:09:30.713Z",
+        "__v": 0
+    },
+    "dailyVIPWheelSpins": {
+        "_id": "6751beb2698fae14cdcfe100",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "dailyVIPWheelSpins",
+        "clickDateTime": "2024-10-13T09:09:45.038Z",
+        "__v": 0
+    },
+    "depositWhale2": {
+        "_id": "6751beb2698fae14cdcfe0a1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "depositWhale2",
+        "clickDateTime": "2024-10-08T11:27:17.305Z",
+        "claimDateTime": "2024-10-08T11:27:32.493Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "discordJoinAcidGames": {
+        "_id": "6751beb2698fae14cdcfe0b5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "discordJoinAcidGames",
+        "clickDateTime": "2024-10-08T12:24:29.376Z",
+        "claimDateTime": "2024-10-08T12:24:32.542Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "emojiOnPostTelegramNewsChannel3": {
+        "_id": "6751beb2698fae14cdcfe092",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "emojiOnPostTelegramNewsChannel3",
+        "clickDateTime": "2024-10-19T04:42:09.369Z",
+        "claimDateTime": "2024-10-18T16:38:55.932Z",
+        "totalCurrencySoftAwarded": 4000000,
+        "__v": 0
+    },
+    "exploreAppsCenter": {
+        "_id": "6751beb2698fae14cdcfe0ca",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "exploreAppsCenter",
+        "clickDateTime": "2024-10-08T12:38:27.095Z",
+        "claimDateTime": "2024-10-08T12:38:37.202Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "followCapybara1": {
+        "_id": "6751beb2698fae14cdcfe0bb",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "followCapybara1",
+        "clickDateTime": "2024-10-08T12:25:05.581Z",
+        "claimDateTime": "2024-10-08T12:35:12.668Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "followCapybara2": {
+        "_id": "6751beb2698fae14cdcfe131",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "followCapybara2",
+        "clickDateTime": "2024-10-19T04:50:24.903Z",
+        "claimDateTime": "2024-10-19T10:09:02.693Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "followTonTon": {
+        "_id": "6751beb2698fae14cdcfe142",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "followTonTon",
+        "clickDateTime": "2024-10-22T20:52:47.037Z",
+        "claimDateTime": "2024-10-23T02:46:51.391Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "followTradoor": {
+        "_id": "6751beb2698fae14cdcfe0ce",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "followTradoor",
+        "clickDateTime": "2024-10-08T12:39:15.964Z",
+        "claimDateTime": "2024-10-08T12:39:26.064Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "foxCoinEnergy": {
+        "_id": "6751beb2698fae14cdcfe11e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "foxCoinEnergy",
+        "clickDateTime": "2024-11-18T16:19:50.267Z",
+        "claimDateTime": "2024-11-18T16:07:47.690Z",
+        "totalGameEnergyAwarded": 240,
+        "__v": 0
+    },
+    "inviteAFriend": {
+        "_id": "6751beb2698fae14cdcfe0fc",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "inviteAFriend",
+        "clickDateTime": "2024-10-08T12:48:48.726Z",
+        "claimDateTime": "2024-10-08T12:48:58.842Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "totalGameEnergyAwarded": 15,
+        "__v": 0
+    },
+    "invitePremiumFriend": {
+        "_id": "6751beb2698fae14cdcfe0fd",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "invitePremiumFriend",
+        "clickDateTime": "2024-10-08T12:49:00.883Z",
+        "claimDateTime": "2024-10-13T09:35:49.654Z",
+        "totalCurrencySoftAwarded": 4000000,
+        "totalGameEnergyAwarded": 50,
+        "__v": 0
+    },
+    "joinAITONBOT": {
+        "_id": "6751beb2698fae14cdcfe199",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAITONBOT",
+        "clickDateTime": "2024-11-11T15:45:33.344Z",
+        "__v": 0
+    },
+    "joinAgent": {
+        "_id": "6751beb2698fae14cdcfe0b6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAgent",
+        "clickDateTime": "2024-10-08T12:24:43.573Z",
+        "claimDateTime": "2024-10-08T12:34:12.986Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinAirdropSearchChannel": {
+        "_id": "6751beb2698fae14cdcfe0eb",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAirdropSearchChannel",
+        "clickDateTime": "2024-10-08T12:45:18.101Z",
+        "claimDateTime": "2024-10-11T16:40:54.204Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinAppsCenter": {
+        "_id": "6751beb2698fae14cdcfe0cb",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAppsCenter",
+        "clickDateTime": "2024-10-08T12:38:39.298Z",
+        "claimDateTime": "2024-10-08T12:38:49.675Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinAthene": {
+        "_id": "6751beb2698fae14cdcfe116",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAthene",
+        "clickDateTime": "2024-10-14T18:44:24.727Z",
+        "claimDateTime": "2024-10-14T22:56:41.727Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinAthene2": {
+        "_id": "6751beb2698fae14cdcfe123",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAthene2",
+        "clickDateTime": "2024-10-16T19:45:05.659Z",
+        "claimDateTime": "2024-10-16T23:12:06.115Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "joinAthene3": {
+        "_id": "6751beb2698fae14cdcfe166",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAthene3",
+        "clickDateTime": "2024-10-30T16:22:51.922Z",
+        "claimDateTime": "2024-10-31T03:33:50.229Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "joinAtheneChannel": {
+        "_id": "6751beb2698fae14cdcfe15f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinAtheneChannel",
+        "clickDateTime": "2024-10-30T11:09:43.266Z",
+        "claimDateTime": "2024-10-30T14:26:41.805Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinBBQ2": {
+        "_id": "6751beb2698fae14cdcfe167",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinBBQ2",
+        "clickDateTime": "2024-10-30T16:23:18.281Z",
+        "claimDateTime": "2024-10-31T03:33:48.272Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinBitgetTGChannel": {
+        "_id": "6751beb2698fae14cdcfe0d4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinBitgetTGChannel",
+        "clickDateTime": "2024-10-08T12:40:30.147Z",
+        "claimDateTime": "2024-10-12T16:33:43.109Z",
+        "totalCurrencySoftAwarded": 700000,
+        "__v": 0
+    },
+    "joinBool": {
+        "_id": "6751beb2698fae14cdcfe0cf",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinBool",
+        "clickDateTime": "2024-10-08T12:39:29.059Z",
+        "claimDateTime": "2024-10-12T16:33:23.728Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinCSPR": {
+        "_id": "6751beb2698fae14cdcfe0bf",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinCSPR",
+        "clickDateTime": "2024-10-08T12:25:22.307Z",
+        "claimDateTime": "2024-10-08T12:36:00.510Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinChickCoop": {
+        "_id": "6751beb2698fae14cdcfe0c9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinChickCoop",
+        "clickDateTime": "2024-10-08T12:37:51.007Z",
+        "claimDateTime": "2024-10-12T16:33:48.161Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinCircle": {
+        "_id": "6751beb2698fae14cdcfe0c5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinCircle",
+        "clickDateTime": "2024-10-08T12:25:48.818Z",
+        "claimDateTime": "2024-10-08T12:37:13.041Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinClockieCommunity": {
+        "_id": "6751beb2698fae14cdcfe164",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinClockieCommunity",
+        "clickDateTime": "2024-10-30T11:11:11.859Z",
+        "__v": 0
+    },
+    "joinDragonz": {
+        "_id": "6751beb2698fae14cdcfe147",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinDragonz",
+        "clickDateTime": "2024-10-23T13:33:22.189Z",
+        "claimDateTime": "2024-10-23T19:07:35.714Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinFomo": {
+        "_id": "6751beb2698fae14cdcfe109",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinFomo",
+        "clickDateTime": "2024-10-13T09:21:28.373Z",
+        "claimDateTime": "2024-10-13T18:50:42.286Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "joinFoxCoin": {
+        "_id": "6751beb2698fae14cdcfe118",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinFoxCoin",
+        "clickDateTime": "2024-10-14T18:44:46.352Z",
+        "claimDateTime": "2024-10-14T22:57:02.708Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinFreeDogs": {
+        "_id": "6751beb2698fae14cdcfe125",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinFreeDogs",
+        "clickDateTime": "2024-10-17T12:42:52.250Z",
+        "claimDateTime": "2024-10-17T16:47:40.396Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinGumart": {
+        "_id": "6751beb2698fae14cdcfe115",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinGumart",
+        "clickDateTime": "2024-10-14T18:44:14.292Z",
+        "claimDateTime": "2024-10-14T22:56:31.029Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinHexacore": {
+        "_id": "6751beb2698fae14cdcfe13d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinHexacore",
+        "clickDateTime": "2024-10-22T20:51:03.433Z",
+        "claimDateTime": "2024-10-22T20:51:17.153Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinLovely": {
+        "_id": "6751beb2698fae14cdcfe10a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinLovely",
+        "clickDateTime": "2024-10-13T09:21:40.111Z",
+        "__v": 0
+    },
+    "joinMergePals": {
+        "_id": "6751beb2698fae14cdcfe0ed",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinMergePals",
+        "clickDateTime": "2024-10-08T12:45:45.195Z",
+        "claimDateTime": "2024-10-08T12:45:55.177Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinMetaRacing": {
+        "_id": "6751beb2698fae14cdcfe0d2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinMetaRacing",
+        "clickDateTime": "2024-10-08T12:40:05.378Z",
+        "claimDateTime": "2024-10-08T12:40:15.484Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinPigsHouse": {
+        "_id": "6751beb2698fae14cdcfe0e5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinPigsHouse",
+        "clickDateTime": "2024-10-08T12:44:01.392Z",
+        "__v": 0
+    },
+    "joinPokemonBall": {
+        "_id": "6751beb2698fae14cdcfe112",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinPokemonBall",
+        "clickDateTime": "2024-10-13T19:00:30.357Z",
+        "claimDateTime": "2024-10-13T21:19:08.187Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinPushTheTerminal": {
+        "_id": "6751beb2698fae14cdcfe119",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinPushTheTerminal",
+        "clickDateTime": "2024-10-14T18:44:56.911Z",
+        "claimDateTime": "2024-10-14T22:57:13.478Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinSeed": {
+        "_id": "6751beb2698fae14cdcfe0c3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinSeed",
+        "clickDateTime": "2024-10-08T12:25:40.270Z",
+        "claimDateTime": "2024-10-08T12:36:48.296Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "joinShieldeum": {
+        "_id": "6751beb2698fae14cdcfe0bd",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinShieldeum",
+        "clickDateTime": "2024-10-08T12:25:14.485Z",
+        "claimDateTime": "2024-10-08T12:35:36.613Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinStarsfi3": {
+        "_id": "6751beb2698fae14cdcfe152",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinStarsfi3",
+        "clickDateTime": "2024-10-28T15:38:06.769Z",
+        "claimDateTime": "2024-10-30T11:10:52.750Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinSwarm": {
+        "_id": "6751beb2698fae14cdcfe106",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinSwarm",
+        "clickDateTime": "2024-10-13T09:20:29.381Z",
+        "claimDateTime": "2024-10-13T18:50:00.281Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinTADA": {
+        "_id": "6751beb2698fae14cdcfe0e1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTADA",
+        "clickDateTime": "2024-10-08T12:43:10.602Z",
+        "claimDateTime": "2024-10-08T12:43:21.042Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "joinTonChurch": {
+        "_id": "6751beb2698fae14cdcfe144",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTonChurch",
+        "clickDateTime": "2024-10-22T20:53:43.552Z",
+        "claimDateTime": "2024-10-22T20:53:54.774Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinTonKombat": {
+        "_id": "6751beb2698fae14cdcfe0c7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTonKombat",
+        "clickDateTime": "2024-10-08T12:25:57.576Z",
+        "claimDateTime": "2024-10-08T12:37:36.993Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinTonTon": {
+        "_id": "6751beb2698fae14cdcfe141",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTonTon",
+        "clickDateTime": "2024-10-22T20:52:32.067Z",
+        "claimDateTime": "2024-10-22T20:52:42.302Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinToncapy": {
+        "_id": "6751beb2698fae14cdcfe162",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinToncapy",
+        "clickDateTime": "2024-10-30T11:10:09.818Z",
+        "claimDateTime": "2024-10-30T14:27:09.112Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinTradoor": {
+        "_id": "6751beb2698fae14cdcfe0cd",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTradoor",
+        "clickDateTime": "2024-10-08T12:39:03.876Z",
+        "__v": 0
+    },
+    "joinTrialXtreme": {
+        "_id": "6751beb2698fae14cdcfe12b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinTrialXtreme",
+        "clickDateTime": "2024-10-19T04:48:23.138Z",
+        "claimDateTime": "2024-10-19T10:05:32.990Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "joinVertus2": {
+        "_id": "6751beb2698fae14cdcfe168",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinVertus2",
+        "clickDateTime": "2024-10-30T16:23:53.604Z",
+        "claimDateTime": "2024-10-31T03:33:46.483Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinWizzwoods2": {
+        "_id": "6751beb2698fae14cdcfe1b4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinWizzwoods2",
+        "clickDateTime": "2024-11-19T16:16:08.439Z",
+        "claimDateTime": "2024-11-19T16:17:45.588Z",
+        "totalCurrencySoftAwarded": 400000,
+        "__v": 0
+    },
+    "joinWorkingDogs": {
+        "_id": "6751beb2698fae14cdcfe143",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinWorkingDogs",
+        "clickDateTime": "2024-10-22T20:53:14.412Z",
+        "claimDateTime": "2024-10-22T20:53:25.182Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinWormfare": {
+        "_id": "6751beb2698fae14cdcfe183",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinWormfare",
+        "clickDateTime": "2024-11-06T02:13:42.527Z",
+        "claimDateTime": "2024-11-06T06:18:11.366Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinZen": {
+        "_id": "6751beb2698fae14cdcfe121",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinZen",
+        "clickDateTime": "2024-10-15T06:15:26.995Z",
+        "claimDateTime": "2024-10-15T09:06:10.397Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "joinZenCoin3": {
+        "_id": "6751beb2698fae14cdcfe171",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "joinZenCoin3",
+        "clickDateTime": "2024-10-31T12:43:41.187Z",
+        "claimDateTime": "2024-10-31T14:30:09.949Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "likeCommunityPost2": {
+        "_id": "6751beb2698fae14cdcfe15c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeCommunityPost2",
+        "clickDateTime": "2024-10-30T11:00:05.839Z",
+        "claimDateTime": "2024-10-30T11:05:09.655Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "likeInstaPost1": {
+        "_id": "6751beb2698fae14cdcfe137",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost1",
+        "clickDateTime": "2024-10-21T12:23:26.354Z",
+        "claimDateTime": "2024-10-21T12:23:44.922Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "likeInstaPost2": {
+        "_id": "6751beb2698fae14cdcfe15b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost2",
+        "clickDateTime": "2024-10-30T10:59:56.846Z",
+        "claimDateTime": "2024-10-30T11:00:04.351Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "likeInstaPost3": {
+        "_id": "6751beb2698fae14cdcfe169",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost3",
+        "clickDateTime": "2024-10-31T03:32:24.497Z",
+        "claimDateTime": "2024-10-31T03:33:25.042Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "likeInstaPost4": {
+        "_id": "6751beb2698fae14cdcfe181",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost4",
+        "clickDateTime": "2024-11-05T04:52:53.466Z",
+        "claimDateTime": "2024-11-05T04:53:01.251Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "likeInstaPost5": {
+        "_id": "6751beb2698fae14cdcfe192",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost5",
+        "clickDateTime": "2024-11-11T03:46:38.009Z",
+        "claimDateTime": "2024-11-11T03:46:42.988Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "likeInstaPost6": {
+        "_id": "6751beb2698fae14cdcfe1b3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "likeInstaPost6",
+        "clickDateTime": "2024-11-19T16:10:10.515Z",
+        "claimDateTime": "2024-11-19T16:10:18.504Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "muertosVIPWheelSpins": {
+        "_id": "6751beb2698fae14cdcfe175",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "muertosVIPWheelSpins",
+        "clickDateTime": "2024-11-03T19:57:15.414Z",
+        "__v": 0
+    },
+    "oceanKombatEnergy": {
+        "_id": "6751beb2698fae14cdcfe153",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "oceanKombatEnergy",
+        "clickDateTime": "2024-11-18T16:21:19.132Z",
+        "claimDateTime": "2024-11-18T16:09:16.302Z",
+        "totalGameEnergyAwarded": 120,
+        "__v": 0
+    },
+    "oneTimeGift": {
+        "_id": "6751beb2698fae14cdcfe174",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "oneTimeGift",
+        "clickDateTime": "2024-11-03T19:57:06.706Z",
+        "claimDateTime": "2024-11-03T19:57:14.058Z",
+        "totalWheelSpinsAwarded": 1,
+        "__v": 0
+    },
+    "oneTimeGiftDraculaIsComming": {
+        "_id": "6751beb2698fae14cdcfe1a8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "oneTimeGiftDraculaIsComming",
+        "clickDateTime": "2024-11-16T05:41:23.482Z",
+        "claimDateTime": "2024-11-16T05:41:32.267Z",
+        "totalWheelSpinsAwarded": 6,
+        "__v": 0
+    },
+    "oneTimeGiftUnicorn": {
+        "_id": "6751beb2698fae14cdcfe19b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "oneTimeGiftUnicorn",
+        "clickDateTime": "2024-11-14T15:11:58.178Z",
+        "claimDateTime": "2024-11-14T15:12:05.722Z",
+        "totalWheelSpinsAwarded": 5,
+        "__v": 0
+    },
+    "openTADA": {
+        "_id": "6751beb2698fae14cdcfe0e0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "openTADA",
+        "clickDateTime": "2024-10-08T12:42:58.616Z",
+        "claimDateTime": "2024-10-08T12:43:08.657Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "piggyEnergy": {
+        "_id": "6751beb2698fae14cdcfe17b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "piggyEnergy",
+        "clickDateTime": "2024-11-18T16:20:25.860Z",
+        "claimDateTime": "2024-11-18T16:08:22.631Z",
+        "totalGameEnergyAwarded": 80,
+        "__v": 0
+    },
+    "playAAO": {
+        "_id": "6751beb2698fae14cdcfe0d5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playAAO",
+        "clickDateTime": "2024-10-08T12:40:42.076Z",
+        "__v": 0
+    },
+    "playAgent": {
+        "_id": "6751beb2698fae14cdcfe0b0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playAgent",
+        "clickDateTime": "2024-10-08T11:43:14.575Z",
+        "claimDateTime": "2024-10-08T11:43:25.147Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playAngryMiner": {
+        "_id": "6751beb2698fae14cdcfe145",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playAngryMiner",
+        "clickDateTime": "2024-10-23T13:33:01.712Z",
+        "claimDateTime": "2024-10-27T13:30:20.239Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playAwaken": {
+        "_id": "6751beb2698fae14cdcfe1ab",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playAwaken",
+        "clickDateTime": "2024-11-16T05:58:49.930Z",
+        "claimDateTime": "2024-11-16T06:13:41.224Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBastion": {
+        "_id": "6751beb2698fae14cdcfe13b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBastion",
+        "clickDateTime": "2024-10-22T20:50:17.610Z",
+        "claimDateTime": "2024-10-22T20:50:28.546Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBird": {
+        "_id": "6751beb2698fae14cdcfe0ae",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBird",
+        "clickDateTime": "2024-10-08T11:39:40.841Z",
+        "claimDateTime": "2024-10-08T11:40:21.101Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBlumLik": {
+        "_id": "6751beb2698fae14cdcfe189",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBlumLik",
+        "clickDateTime": "2024-11-07T12:24:25.907Z",
+        "__v": 0
+    },
+    "playBlumLik2": {
+        "_id": "6751beb2698fae14cdcfe190",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBlumLik2",
+        "clickDateTime": "2024-11-10T16:56:05.255Z",
+        "__v": 0
+    },
+    "playBombie": {
+        "_id": "6751beb2698fae14cdcfe198",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBombie",
+        "clickDateTime": "2024-11-11T15:45:24.172Z",
+        "claimDateTime": "2024-11-11T15:53:40.442Z",
+        "totalCurrencySoftAwarded": 1555000,
+        "__v": 0
+    },
+    "playBool": {
+        "_id": "6751beb2698fae14cdcfe0d0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBool",
+        "clickDateTime": "2024-10-08T12:39:40.956Z",
+        "claimDateTime": "2024-10-12T16:33:45.632Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBroski": {
+        "_id": "6751beb2698fae14cdcfe14c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBroski",
+        "clickDateTime": "2024-10-25T23:29:46.744Z",
+        "claimDateTime": "2024-10-26T09:57:07.608Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBullFarm": {
+        "_id": "6751beb2698fae14cdcfe10f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBullFarm",
+        "clickDateTime": "2024-10-13T18:49:08.808Z",
+        "claimDateTime": "2024-10-13T21:08:20.346Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBurgerBlast": {
+        "_id": "6751beb2698fae14cdcfe0f2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBurgerBlast",
+        "clickDateTime": "2024-10-08T12:46:47.272Z",
+        "claimDateTime": "2024-10-08T12:46:57.640Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playBurrito": {
+        "_id": "6751beb2698fae14cdcfe18a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playBurrito",
+        "clickDateTime": "2024-11-07T12:26:23.879Z",
+        "claimDateTime": "2024-11-07T12:37:43.458Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCapybara": {
+        "_id": "6751beb2698fae14cdcfe0ba",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCapybara",
+        "clickDateTime": "2024-10-08T12:25:00.525Z",
+        "claimDateTime": "2024-10-08T12:35:00.779Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCapybara2": {
+        "_id": "6751beb2698fae14cdcfe12c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCapybara2",
+        "clickDateTime": "2024-10-19T04:48:41.413Z",
+        "claimDateTime": "2024-10-19T10:05:53.387Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playCapybaraMEME": {
+        "_id": "6751beb2698fae14cdcfe126",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCapybaraMEME",
+        "clickDateTime": "2024-10-17T12:43:01.506Z",
+        "claimDateTime": "2024-10-17T16:47:49.613Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCashRush": {
+        "_id": "6751beb2698fae14cdcfe191",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCashRush",
+        "clickDateTime": "2024-11-10T16:58:11.619Z",
+        "claimDateTime": "2024-11-10T16:58:30.324Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCatBox": {
+        "_id": "6751beb2698fae14cdcfe176",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCatBox",
+        "clickDateTime": "2024-11-03T20:05:26.878Z",
+        "claimDateTime": "2024-11-04T05:31:46.647Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCatBoxEnergy": {
+        "_id": "6751beb2698fae14cdcfe172",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCatBoxEnergy",
+        "clickDateTime": "2024-11-18T16:21:36.967Z",
+        "claimDateTime": "2024-11-18T16:09:33.878Z",
+        "totalGameEnergyAwarded": 100,
+        "__v": 0
+    },
+    "playCatGoldMiner": {
+        "_id": "6751beb2698fae14cdcfe0e2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCatGoldMiner",
+        "clickDateTime": "2024-10-08T12:43:23.600Z",
+        "claimDateTime": "2024-10-08T15:00:31.560Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "playCatchTON": {
+        "_id": "6751beb2698fae14cdcfe0d6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCatchTON",
+        "clickDateTime": "2024-10-08T12:40:54.761Z",
+        "claimDateTime": "2024-10-08T12:41:04.770Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCatton": {
+        "_id": "6751beb2698fae14cdcfe0d8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCatton",
+        "clickDateTime": "2024-10-08T12:41:20.359Z",
+        "claimDateTime": "2024-10-08T12:41:31.362Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCexIO": {
+        "_id": "6751beb2698fae14cdcfe128",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCexIO",
+        "clickDateTime": "2024-10-17T12:43:20.223Z",
+        "claimDateTime": "2024-10-17T16:48:08.346Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCexIO2": {
+        "_id": "6751beb2698fae14cdcfe170",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCexIO2",
+        "clickDateTime": "2024-10-31T03:33:51.532Z",
+        "claimDateTime": "2024-10-31T03:34:24.287Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playChef": {
+        "_id": "6751beb2698fae14cdcfe130",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playChef",
+        "clickDateTime": "2024-10-19T04:49:28.318Z",
+        "claimDateTime": "2024-10-19T10:07:19.864Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCherry": {
+        "_id": "6751beb2698fae14cdcfe0bc",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCherry",
+        "clickDateTime": "2024-10-08T12:25:09.766Z",
+        "claimDateTime": "2024-10-08T12:35:24.793Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playChickCoop": {
+        "_id": "6751beb2698fae14cdcfe0c8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playChickCoop",
+        "clickDateTime": "2024-10-08T12:26:01.465Z",
+        "claimDateTime": "2024-10-08T12:37:49.025Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCircle": {
+        "_id": "6751beb2698fae14cdcfe0c4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCircle",
+        "clickDateTime": "2024-10-08T12:25:44.850Z",
+        "claimDateTime": "2024-10-08T12:37:01.066Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playCityHolder": {
+        "_id": "6751beb2698fae14cdcfe10e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCityHolder",
+        "clickDateTime": "2024-10-13T18:48:58.255Z",
+        "claimDateTime": "2024-10-13T21:08:09.633Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playClayton": {
+        "_id": "6751beb2698fae14cdcfe113",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playClayton",
+        "clickDateTime": "2024-10-14T18:43:53.161Z",
+        "claimDateTime": "2024-10-14T22:56:09.837Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playClockie": {
+        "_id": "6751beb2698fae14cdcfe163",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playClockie",
+        "clickDateTime": "2024-10-30T11:11:02.958Z",
+        "__v": 0
+    },
+    "playCornBattles2": {
+        "_id": "6751beb2698fae14cdcfe0ee",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playCornBattles2",
+        "clickDateTime": "2024-10-08T12:45:57.151Z",
+        "claimDateTime": "2024-10-15T12:23:50.301Z",
+        "totalCurrencySoftAwarded": 1150000,
+        "__v": 0
+    },
+    "playDIGIBUYenergy": {
+        "_id": "6751beb2698fae14cdcfe179",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDIGIBUYenergy",
+        "clickDateTime": "2024-11-18T16:20:07.850Z",
+        "claimDateTime": "2024-11-18T16:08:05.095Z",
+        "totalGameEnergyAwarded": 80,
+        "__v": 0
+    },
+    "playDailyKrypton": {
+        "_id": "6751beb2698fae14cdcfe18f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDailyKrypton",
+        "clickDateTime": null,
+        "claimDateTime": "2024-11-10T16:56:09.695Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "playDejenDog": {
+        "_id": "6751beb2698fae14cdcfe0f5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDejenDog",
+        "clickDateTime": "2024-10-08T12:47:23.761Z",
+        "claimDateTime": "2024-10-11T16:40:50.001Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playDragonz": {
+        "_id": "6751beb2698fae14cdcfe146",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDragonz",
+        "clickDateTime": "2024-10-23T13:33:11.923Z",
+        "claimDateTime": "2024-10-23T19:07:26.512Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playDropee": {
+        "_id": "6751beb2698fae14cdcfe12f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDropee",
+        "clickDateTime": "2024-10-19T04:49:19.279Z",
+        "claimDateTime": "2024-10-19T10:07:03.748Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playDropee2": {
+        "_id": "6751beb2698fae14cdcfe19d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDropee2",
+        "clickDateTime": "2024-11-14T15:21:11.144Z",
+        "claimDateTime": "2024-11-14T17:19:31.862Z",
+        "totalGameEnergyAwarded": 20,
+        "__v": 0
+    },
+    "playDropee3": {
+        "_id": "6751beb2698fae14cdcfe1ae",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDropee3",
+        "clickDateTime": "2024-11-18T16:16:32.705Z",
+        "claimDateTime": "2024-11-18T16:28:51.679Z",
+        "totalGameEnergyAwarded": 50,
+        "__v": 0
+    },
+    "playDrops": {
+        "_id": "6751beb2698fae14cdcfe182",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDrops",
+        "clickDateTime": "2024-11-05T04:58:16.481Z",
+        "claimDateTime": "2024-11-05T05:13:34.711Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playDucks": {
+        "_id": "6751beb2698fae14cdcfe19f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDucks",
+        "clickDateTime": "2024-11-14T15:28:54.567Z",
+        "__v": 0
+    },
+    "playDucks2": {
+        "_id": "6751beb2698fae14cdcfe1a1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playDucks2",
+        "clickDateTime": "2024-11-14T17:13:20.876Z",
+        "claimDateTime": "2024-11-14T17:13:33.291Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playEtaku": {
+        "_id": "6751beb2698fae14cdcfe12e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playEtaku",
+        "clickDateTime": "2024-10-19T04:49:09.794Z",
+        "claimDateTime": "2024-10-19T10:06:43.343Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playFasto": {
+        "_id": "6751beb2698fae14cdcfe0b9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playFasto",
+        "clickDateTime": "2024-10-08T12:24:56.344Z",
+        "claimDateTime": "2024-10-08T12:34:48.985Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playFlappyBirk": {
+        "_id": "6751beb2698fae14cdcfe1a4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playFlappyBirk",
+        "clickDateTime": "2024-11-14T17:22:36.650Z",
+        "claimDateTime": "2024-11-15T06:24:39.936Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playFoF": {
+        "_id": "6751beb2698fae14cdcfe1a2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playFoF",
+        "clickDateTime": "2024-11-14T17:13:23.748Z",
+        "claimDateTime": "2024-11-14T17:13:36.414Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playFreeDogs": {
+        "_id": "6751beb2698fae14cdcfe124",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playFreeDogs",
+        "clickDateTime": "2024-10-17T12:42:41.174Z",
+        "claimDateTime": "2024-10-17T16:47:30.881Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playGoats1017": {
+        "_id": "6751beb2698fae14cdcfe127",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playGoats1017",
+        "clickDateTime": "2024-10-17T12:43:10.730Z",
+        "claimDateTime": "2024-10-17T16:47:58.771Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playGumart": {
+        "_id": "6751beb2698fae14cdcfe114",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playGumart",
+        "clickDateTime": "2024-10-14T18:44:03.605Z",
+        "claimDateTime": "2024-10-14T22:56:20.506Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playHexacore": {
+        "_id": "6751beb2698fae14cdcfe13c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playHexacore",
+        "clickDateTime": "2024-10-22T20:50:33.453Z",
+        "claimDateTime": "2024-10-22T20:50:53.569Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playHippo": {
+        "_id": "6751beb2698fae14cdcfe0c0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playHippo",
+        "clickDateTime": "2024-10-08T12:25:26.316Z",
+        "claimDateTime": "2024-10-08T12:36:12.362Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playHoldCoin": {
+        "_id": "6751beb2698fae14cdcfe0de",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playHoldCoin",
+        "clickDateTime": "2024-10-08T12:42:33.742Z",
+        "__v": 0
+    },
+    "playHybridAi": {
+        "_id": "6751beb2698fae14cdcfe0d9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playHybridAi",
+        "clickDateTime": "2024-10-08T12:41:33.374Z",
+        "claimDateTime": "2024-10-12T16:33:39.902Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playISPYN": {
+        "_id": "6751beb2698fae14cdcfe15e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playISPYN",
+        "clickDateTime": "2024-10-30T11:09:16.674Z",
+        "claimDateTime": "2024-10-30T14:26:14.108Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playJetton": {
+        "_id": "6751beb2698fae14cdcfe14e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playJetton",
+        "clickDateTime": "2024-10-28T05:20:52.037Z",
+        "claimDateTime": "2024-10-28T05:20:59.769Z",
+        "totalCurrencySoftAwarded": 1111111,
+        "__v": 0
+    },
+    "playKod": {
+        "_id": "6751beb2698fae14cdcfe12a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playKod",
+        "clickDateTime": "2024-10-19T04:48:13.839Z",
+        "__v": 0
+    },
+    "playKolo": {
+        "_id": "6751beb2698fae14cdcfe14b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playKolo",
+        "clickDateTime": "2024-10-25T23:29:37.572Z",
+        "claimDateTime": "2024-10-27T13:29:33.123Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playKrypton": {
+        "_id": "6751beb2698fae14cdcfe18e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playKrypton",
+        "clickDateTime": "2024-11-10T16:55:46.788Z",
+        "claimDateTime": "2024-11-10T16:56:00.665Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "playLimeGame": {
+        "_id": "6751beb2698fae14cdcfe1a6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playLimeGame",
+        "clickDateTime": "2024-11-14T17:22:54.174Z",
+        "claimDateTime": "2024-11-15T06:24:57.659Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playMech3": {
+        "_id": "6751beb2698fae14cdcfe160",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playMech3",
+        "clickDateTime": "2024-10-30T11:09:52.071Z",
+        "claimDateTime": "2024-10-30T14:26:50.895Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playMergePals": {
+        "_id": "6751beb2698fae14cdcfe0ec",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playMergePals",
+        "clickDateTime": "2024-10-08T12:45:30.827Z",
+        "claimDateTime": "2024-10-08T12:45:41.948Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playMetaRacing": {
+        "_id": "6751beb2698fae14cdcfe0d1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playMetaRacing",
+        "clickDateTime": "2024-10-08T12:39:52.860Z",
+        "claimDateTime": "2024-10-08T12:40:03.387Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playNotcoinLikeMindedClub": {
+        "_id": "6751beb2698fae14cdcfe19a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playNotcoinLikeMindedClub",
+        "clickDateTime": "2024-11-11T15:45:42.834Z",
+        "__v": 0
+    },
+    "playObix": {
+        "_id": "6751beb2698fae14cdcfe10c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playObix",
+        "clickDateTime": "2024-10-13T09:22:56.411Z",
+        "__v": 0
+    },
+    "playOk": {
+        "_id": "6751beb2698fae14cdcfe12d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playOk",
+        "clickDateTime": "2024-10-19T04:49:00.703Z",
+        "__v": 0
+    },
+    "playOwls": {
+        "_id": "6751beb2698fae14cdcfe111",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playOwls",
+        "clickDateTime": "2024-10-13T18:49:31.362Z",
+        "claimDateTime": "2024-10-13T21:08:41.428Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playPeaAIBot2": {
+        "_id": "6751beb2698fae14cdcfe0e3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPeaAIBot2",
+        "clickDateTime": "2024-10-08T12:43:35.594Z",
+        "claimDateTime": "2024-10-08T12:43:45.784Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "playPencho": {
+        "_id": "6751beb2698fae14cdcfe13f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPencho",
+        "clickDateTime": "2024-10-22T20:51:40.352Z",
+        "claimDateTime": "2024-10-22T20:51:52.627Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playPiggyBank": {
+        "_id": "6751beb2698fae14cdcfe19e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPiggyBank",
+        "clickDateTime": "2024-11-14T15:25:31.617Z",
+        "__v": 0
+    },
+    "playPiggyDailyCheckIn": {
+        "_id": "6751beb2698fae14cdcfe151",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPiggyDailyCheckIn",
+        "clickDateTime": "2024-10-28T15:36:51.956Z",
+        "claimDateTime": "2024-10-30T11:09:32.979Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playPigsHouse": {
+        "_id": "6751beb2698fae14cdcfe0e4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPigsHouse",
+        "clickDateTime": "2024-10-08T12:43:47.767Z",
+        "claimDateTime": "2024-10-08T12:43:59.129Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "playPokemonBall": {
+        "_id": "6751beb2698fae14cdcfe0f3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPokemonBall",
+        "clickDateTime": "2024-10-08T12:46:59.703Z",
+        "claimDateTime": "2024-10-08T12:47:09.765Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playPop": {
+        "_id": "6751beb2698fae14cdcfe0af",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPop",
+        "clickDateTime": "2024-10-08T11:40:47.711Z",
+        "claimDateTime": "2024-10-08T11:41:12.695Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playPumpad": {
+        "_id": "6751beb2698fae14cdcfe173",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playPumpad",
+        "clickDateTime": "2024-11-01T15:49:03.558Z",
+        "claimDateTime": "2024-11-01T16:16:08.920Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playRedPocket": {
+        "_id": "6751beb2698fae14cdcfe1a5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playRedPocket",
+        "clickDateTime": "2024-11-14T17:22:45.537Z",
+        "claimDateTime": "2024-11-15T06:24:48.799Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playRiverLand": {
+        "_id": "6751beb2698fae14cdcfe185",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playRiverLand",
+        "clickDateTime": "2024-11-06T07:47:50.814Z",
+        "claimDateTime": "2024-11-06T07:48:44.906Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSNAPSAirdrop": {
+        "_id": "6751beb2698fae14cdcfe0ef",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSNAPSAirdrop",
+        "clickDateTime": "2024-10-08T12:46:09.352Z",
+        "claimDateTime": "2024-10-08T12:46:19.694Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSalt": {
+        "_id": "6751beb2698fae14cdcfe10d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSalt",
+        "clickDateTime": "2024-10-13T09:33:59.790Z",
+        "claimDateTime": "2024-10-13T19:01:09.878Z",
+        "totalCurrencySoftAwarded": 150000,
+        "__v": 0
+    },
+    "playSarsfit": {
+        "_id": "6751beb2698fae14cdcfe0d7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSarsfit",
+        "clickDateTime": "2024-10-08T12:41:06.807Z",
+        "claimDateTime": "2024-10-08T12:41:16.814Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSecretTon": {
+        "_id": "6751beb2698fae14cdcfe0be",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSecretTon",
+        "clickDateTime": "2024-10-08T12:25:18.423Z",
+        "claimDateTime": "2024-10-08T12:35:48.594Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSeed": {
+        "_id": "6751beb2698fae14cdcfe0c2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSeed",
+        "clickDateTime": "2024-10-08T12:25:35.789Z",
+        "claimDateTime": "2024-10-08T12:36:36.155Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "playSeed2": {
+        "_id": "6751beb2698fae14cdcfe122",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSeed2",
+        "clickDateTime": "2024-10-15T06:16:45.593Z",
+        "claimDateTime": "2024-10-15T09:07:53.547Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playSimple": {
+        "_id": "6751beb2698fae14cdcfe0b8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSimple",
+        "clickDateTime": "2024-10-08T12:24:51.904Z",
+        "claimDateTime": "2024-10-08T12:34:37.062Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSpaceAdventures": {
+        "_id": "6751beb2698fae14cdcfe117",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSpaceAdventures",
+        "clickDateTime": "2024-10-14T18:44:35.546Z",
+        "claimDateTime": "2024-10-14T22:56:52.165Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSpell": {
+        "_id": "6751beb2698fae14cdcfe14a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSpell",
+        "clickDateTime": "2024-10-25T23:29:27.328Z",
+        "claimDateTime": "2024-10-26T09:56:31.141Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playStarsfi3": {
+        "_id": "6751beb2698fae14cdcfe14f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playStarsfi3",
+        "clickDateTime": "2024-10-28T05:22:10.474Z",
+        "claimDateTime": "2024-10-28T08:36:10.791Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playSwarm": {
+        "_id": "6751beb2698fae14cdcfe107",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playSwarm",
+        "clickDateTime": "2024-10-13T09:20:41.075Z",
+        "claimDateTime": "2024-10-13T18:50:10.705Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTSA": {
+        "_id": "6751beb2698fae14cdcfe1a3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTSA",
+        "clickDateTime": "2024-11-14T17:13:29.262Z",
+        "claimDateTime": "2024-11-14T17:23:10.120Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTapCoins": {
+        "_id": "6751beb2698fae14cdcfe13a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTapCoins",
+        "clickDateTime": "2024-10-21T12:29:35.229Z",
+        "claimDateTime": "2024-10-21T17:52:40.035Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTimeTON": {
+        "_id": "6751beb2698fae14cdcfe0c1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTimeTON",
+        "clickDateTime": "2024-10-08T12:25:31.792Z",
+        "claimDateTime": "2024-10-08T12:36:24.236Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTitan": {
+        "_id": "6751beb2698fae14cdcfe184",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTitan",
+        "clickDateTime": "2024-11-06T07:11:14.880Z",
+        "claimDateTime": "2024-11-06T07:11:48.155Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTonChurch": {
+        "_id": "6751beb2698fae14cdcfe139",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonChurch",
+        "clickDateTime": "2024-10-21T12:29:25.321Z",
+        "claimDateTime": "2024-10-21T17:52:30.774Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTonDrop": {
+        "_id": "6751beb2698fae14cdcfe110",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonDrop",
+        "clickDateTime": "2024-10-13T18:49:20.436Z",
+        "claimDateTime": "2024-10-13T21:08:30.846Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTonEarnTonCook": {
+        "_id": "6751beb2698fae14cdcfe0f4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonEarnTonCook",
+        "clickDateTime": "2024-10-08T12:47:11.851Z",
+        "__v": 0
+    },
+    "playTonKombat2": {
+        "_id": "6751beb2698fae14cdcfe0c6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonKombat2",
+        "clickDateTime": "2024-10-08T12:25:53.381Z",
+        "claimDateTime": "2024-10-08T12:37:24.945Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "playTonTon": {
+        "_id": "6751beb2698fae14cdcfe140",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonTon",
+        "clickDateTime": "2024-10-22T20:52:15.806Z",
+        "claimDateTime": "2024-10-22T20:52:26.158Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playToncapy": {
+        "_id": "6751beb2698fae14cdcfe161",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playToncapy",
+        "clickDateTime": "2024-10-30T11:10:00.890Z",
+        "claimDateTime": "2024-10-30T14:27:00.158Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playTonchi": {
+        "_id": "6751beb2698fae14cdcfe0df",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playTonchi",
+        "clickDateTime": "2024-10-08T12:42:46.508Z",
+        "claimDateTime": "2024-10-08T15:00:35.367Z",
+        "totalCurrencySoftAwarded": 250000,
+        "__v": 0
+    },
+    "playUxuy": {
+        "_id": "6751beb2698fae14cdcfe18b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playUxuy",
+        "clickDateTime": "2024-11-07T12:28:21.171Z",
+        "claimDateTime": "2024-11-07T12:37:44.977Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playWONTON": {
+        "_id": "6751beb2698fae14cdcfe10b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playWONTON",
+        "clickDateTime": "2024-10-13T09:22:41.235Z",
+        "claimDateTime": "2024-10-13T09:22:53.057Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playWhiteBunny": {
+        "_id": "6751beb2698fae14cdcfe165",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playWhiteBunny",
+        "clickDateTime": "2024-10-30T11:11:20.937Z",
+        "__v": 0
+    },
+    "playWorkingDogs": {
+        "_id": "6751beb2698fae14cdcfe138",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playWorkingDogs",
+        "clickDateTime": "2024-10-21T12:29:15.009Z",
+        "claimDateTime": "2024-10-21T17:52:21.439Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "playYescoin": {
+        "_id": "6751beb2698fae14cdcfe105",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playYescoin",
+        "clickDateTime": "2024-10-13T09:20:06.663Z",
+        "claimDateTime": "2024-10-13T18:23:30.869Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "playZen2": {
+        "_id": "6751beb2698fae14cdcfe0b7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "playZen2",
+        "clickDateTime": "2024-10-08T12:24:47.755Z",
+        "claimDateTime": "2024-10-08T12:34:24.909Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "raidTon108": {
+        "_id": "6751beb2698fae14cdcfe095",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "raidTon108",
+        "clickDateTime": "2024-10-08T09:33:38.492Z",
+        "claimDateTime": "2024-10-08T09:34:25.603Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "rateTheApp": {
+        "_id": "6751beb2698fae14cdcfe0a5",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "rateTheApp",
+        "clickDateTime": "2024-10-08T11:29:20.750Z",
+        "claimDateTime": "2024-10-08T11:48:50.029Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "readCoinScan": {
+        "_id": "6751beb2698fae14cdcfe0a9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "readCoinScan",
+        "clickDateTime": "2024-10-08T11:29:36.970Z",
+        "claimDateTime": "2024-10-08T11:29:39.230Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "regPalmPay1": {
+        "_id": "6751beb2698fae14cdcfe177",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "regPalmPay1",
+        "clickDateTime": "2024-11-04T05:22:54.066Z",
+        "claimDateTime": "2024-11-06T05:28:22.709Z",
+        "totalGameEnergyAwarded": 50,
+        "__v": 0
+    },
+    "subscribeToInstagram": {
+        "_id": "6751beb2698fae14cdcfe120",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "subscribeToInstagram",
+        "clickDateTime": "2024-10-15T06:11:38.983Z",
+        "claimDateTime": "2024-10-15T06:11:46.544Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "subscribeToOurYouTube": {
+        "_id": "6751beb2698fae14cdcfe0b4",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "subscribeToOurYouTube",
+        "clickDateTime": "2024-10-08T12:24:24.961Z",
+        "claimDateTime": "2024-10-08T12:24:27.109Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "subscribeToTikTok": {
+        "_id": "6751beb2698fae14cdcfe11f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "subscribeToTikTok",
+        "clickDateTime": "2024-10-15T06:11:29.962Z",
+        "claimDateTime": "2024-10-15T06:11:37.467Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "telegramBoostBoinkersNewsChannel": {
+        "_id": "6751beb2698fae14cdcfe090",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramBoostBoinkersNewsChannel",
+        "clickDateTime": "2024-10-08T09:24:50.016Z",
+        "__v": 0
+    },
+    "telegramBoostBoinkersNewsChannel1": {
+        "_id": "6751beb2698fae14cdcfe091",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramBoostBoinkersNewsChannel1",
+        "clickDateTime": "2024-10-08T09:24:52.356Z",
+        "__v": 0
+    },
+    "telegramJoinAcidGames": {
+        "_id": "6751beb2698fae14cdcfe0b2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramJoinAcidGames",
+        "clickDateTime": "2024-10-08T12:24:17.125Z",
+        "claimDateTime": "2024-10-08T12:32:53.846Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "telegramJoinBoinkersNewsChannel": {
+        "_id": "6751beb2698fae14cdcfe0b1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramJoinBoinkersNewsChannel",
+        "clickDateTime": "2024-10-08T12:24:12.640Z",
+        "claimDateTime": "2024-10-15T08:42:57.756Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "telegramJoinBoinkersOG": {
+        "_id": "6751beb2698fae14cdcfe0ac",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramJoinBoinkersOG",
+        "clickDateTime": "2024-10-08T11:29:49.357Z",
+        "claimDateTime": "2024-10-08T12:24:10.179Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "telegramJoinBoinkersRussianChat": {
+        "_id": "6751beb2698fae14cdcfe0b3",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramJoinBoinkersRussianChat",
+        "clickDateTime": "2024-10-08T12:24:20.959Z",
+        "claimDateTime": "2024-10-08T12:24:23.004Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "telegramJoinTapMonsters": {
+        "_id": "6751beb2698fae14cdcfe0f0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramJoinTapMonsters",
+        "clickDateTime": "2024-10-08T12:46:23.012Z",
+        "claimDateTime": "2024-10-08T12:46:33.014Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "telegramPlayFrogMates2": {
+        "_id": "6751beb2698fae14cdcfe0e8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramPlayFrogMates2",
+        "clickDateTime": "2024-10-08T12:44:41.613Z",
+        "claimDateTime": "2024-10-08T12:44:51.706Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "telegramPlayLizarts": {
+        "_id": "6751beb2698fae14cdcfe0f8",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramPlayLizarts",
+        "clickDateTime": "2024-10-08T12:48:00.046Z",
+        "claimDateTime": "2024-10-08T12:48:10.104Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "telegramPlayMakeFrens": {
+        "_id": "6751beb2698fae14cdcfe0fa",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramPlayMakeFrens",
+        "clickDateTime": "2024-10-08T12:48:24.698Z",
+        "claimDateTime": "2024-10-08T12:48:34.681Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "telegramPlayTapMonsters": {
+        "_id": "6751beb2698fae14cdcfe0f1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramPlayTapMonsters",
+        "clickDateTime": "2024-10-08T12:46:35.101Z",
+        "claimDateTime": "2024-10-08T12:46:45.263Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "telegramPlayTonGoldMiner": {
+        "_id": "6751beb2698fae14cdcfe0fb",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramPlayTonGoldMiner",
+        "clickDateTime": "2024-10-08T12:48:36.804Z",
+        "claimDateTime": "2024-10-08T12:48:46.771Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "telegramShareStory30": {
+        "_id": "6751beb2698fae14cdcfe098",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory30",
+        "clickDateTime": "2024-10-08T11:13:43.362Z",
+        "__v": 0
+    },
+    "telegramShareStory32": {
+        "_id": "6751beb2698fae14cdcfe103",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory32",
+        "clickDateTime": "2024-10-13T09:14:09.579Z",
+        "__v": 0
+    },
+    "telegramShareStory33": {
+        "_id": "6751beb2698fae14cdcfe11c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory33",
+        "clickDateTime": "2024-10-15T06:07:59.516Z",
+        "__v": 0
+    },
+    "telegramShareStory44": {
+        "_id": "6751beb2698fae14cdcfe134",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory44",
+        "clickDateTime": "2024-10-21T12:22:52.781Z",
+        "__v": 0
+    },
+    "telegramShareStory45": {
+        "_id": "6751beb2698fae14cdcfe158",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory45",
+        "clickDateTime": "2024-10-30T10:59:30.153Z",
+        "__v": 0
+    },
+    "telegramShareStory46": {
+        "_id": "6751beb2698fae14cdcfe17e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory46",
+        "clickDateTime": "2024-11-05T04:52:23.687Z",
+        "__v": 0
+    },
+    "telegramShareStory47": {
+        "_id": "6751beb2698fae14cdcfe195",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "telegramShareStory47",
+        "clickDateTime": "2024-11-11T03:46:47.452Z",
+        "__v": 0
+    },
+    "tradeTradoor": {
+        "_id": "6751beb2698fae14cdcfe0cc",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "tradeTradoor",
+        "clickDateTime": "2024-10-08T12:38:51.689Z",
+        "claimDateTime": "2024-10-08T12:39:01.841Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "tradoorEnergy": {
+        "_id": "6751beb2698fae14cdcfe178",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "tradoorEnergy",
+        "clickDateTime": "2024-11-18T16:19:59.034Z",
+        "claimDateTime": "2024-11-18T16:07:56.379Z",
+        "totalGameEnergyAwarded": 80,
+        "__v": 0
+    },
+    "twitterBoinkersAnnouncements": {
+        "_id": "6751beb2698fae14cdcfe0aa",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterBoinkersAnnouncements",
+        "clickDateTime": "2024-10-08T11:29:41.204Z",
+        "claimDateTime": "2024-10-08T12:24:02.044Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterFollowAcidGames": {
+        "_id": "6751beb2698fae14cdcfe0f6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowAcidGames",
+        "clickDateTime": "2024-10-08T12:47:35.764Z",
+        "claimDateTime": "2024-10-08T12:47:45.833Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "twitterFollowBeastLeague": {
+        "_id": "6751beb2698fae14cdcfe0f7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowBeastLeague",
+        "clickDateTime": "2024-10-08T12:47:48.078Z",
+        "claimDateTime": "2024-10-08T12:47:58.039Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "twitterFollowBoinkersNew": {
+        "_id": "6751beb2698fae14cdcfe08f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowBoinkersNew",
+        "clickDateTime": "2024-10-08T09:22:30.262Z",
+        "claimDateTime": "2024-10-08T09:23:14.702Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "twitterFollowFABBoinkers": {
+        "_id": "6751beb2698fae14cdcfe0a7",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowFABBoinkers",
+        "clickDateTime": "2024-10-08T11:29:28.618Z",
+        "claimDateTime": "2024-10-08T11:49:14.704Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "twitterFollowMakeFrens": {
+        "_id": "6751beb2698fae14cdcfe0f9",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowMakeFrens",
+        "clickDateTime": "2024-10-08T12:48:12.472Z",
+        "claimDateTime": "2024-10-08T12:48:22.421Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "twitterFollowSashmazY": {
+        "_id": "6751beb2698fae14cdcfe0a6",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowSashmazY",
+        "clickDateTime": "2024-10-08T11:29:24.629Z",
+        "claimDateTime": "2024-10-08T11:29:26.673Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterFollowShitcoinaire": {
+        "_id": "6751beb2698fae14cdcfe149",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterFollowShitcoinaire",
+        "clickDateTime": "2024-10-25T23:26:17.851Z",
+        "claimDateTime": "2024-10-25T23:26:26.824Z",
+        "totalCurrencySoftAwarded": 100000,
+        "__v": 0
+    },
+    "twitterLikePost49": {
+        "_id": "6751beb2698fae14cdcfe097",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost49",
+        "clickDateTime": "2024-10-08T10:44:35.092Z",
+        "claimDateTime": "2024-10-08T11:13:33.413Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost51": {
+        "_id": "6751beb2698fae14cdcfe102",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost51",
+        "clickDateTime": "2024-10-13T09:13:36.422Z",
+        "claimDateTime": "2024-10-13T18:23:22.446Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost52": {
+        "_id": "6751beb2698fae14cdcfe11b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost52",
+        "clickDateTime": "2024-10-15T06:07:24.934Z",
+        "claimDateTime": "2024-10-15T08:58:38.989Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost53": {
+        "_id": "6751beb2698fae14cdcfe133",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost53",
+        "clickDateTime": "2024-10-21T12:22:43.146Z",
+        "claimDateTime": "2024-10-21T17:47:17.997Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost55": {
+        "_id": "6751beb2698fae14cdcfe156",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost55",
+        "clickDateTime": "2024-10-30T10:59:12.451Z",
+        "claimDateTime": "2024-10-30T14:21:07.649Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost56": {
+        "_id": "6751beb2698fae14cdcfe16d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost56",
+        "clickDateTime": "2024-10-31T03:32:40.119Z",
+        "claimDateTime": "2024-10-31T12:29:04.000Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost58": {
+        "_id": "6751beb2698fae14cdcfe17d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost58",
+        "clickDateTime": "2024-11-05T04:52:01.161Z",
+        "claimDateTime": "2024-11-05T05:07:23.748Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost59": {
+        "_id": "6751beb2698fae14cdcfe196",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost59",
+        "clickDateTime": "2024-11-11T03:46:54.730Z",
+        "claimDateTime": "2024-11-11T15:40:47.058Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikePost60": {
+        "_id": "6751beb2698fae14cdcfe1b0",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikePost60",
+        "clickDateTime": "2024-11-19T16:09:24.037Z",
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire1": {
+        "_id": "6751beb2698fae14cdcfe148",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire1",
+        "clickDateTime": "2024-10-25T23:23:41.047Z",
+        "claimDateTime": "2024-10-26T09:48:42.198Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire2": {
+        "_id": "6751beb2698fae14cdcfe150",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire2",
+        "clickDateTime": "2024-10-28T15:31:45.519Z",
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire4": {
+        "_id": "6751beb2698fae14cdcfe157",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire4",
+        "clickDateTime": "2024-10-30T10:59:21.325Z",
+        "claimDateTime": "2024-10-30T14:21:16.548Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire5": {
+        "_id": "6751beb2698fae14cdcfe16c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire5",
+        "clickDateTime": "2024-10-31T03:32:35.053Z",
+        "claimDateTime": "2024-10-31T12:29:13.303Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire6": {
+        "_id": "6751beb2698fae14cdcfe188",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire6",
+        "clickDateTime": "2024-11-07T12:19:41.437Z",
+        "claimDateTime": "2024-11-07T12:31:22.376Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterLikeShitcoinaire7": {
+        "_id": "6751beb2698fae14cdcfe1aa",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterLikeShitcoinaire7",
+        "clickDateTime": "2024-11-16T05:47:19.150Z",
+        "claimDateTime": "2024-11-16T06:05:17.075Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "twitterPost2": {
+        "_id": "6751beb2698fae14cdcfe0ab",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterPost2",
+        "clickDateTime": "2024-10-08T11:29:45.192Z",
+        "claimDateTime": "2024-10-08T12:24:05.972Z",
+        "totalCurrencySoftAwarded": 1000000,
+        "__v": 0
+    },
+    "twitterQuotePost49": {
+        "_id": "6751beb2698fae14cdcfe094",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost49",
+        "clickDateTime": "2024-10-08T09:33:28.311Z",
+        "claimDateTime": "2024-10-08T10:41:30.936Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost51": {
+        "_id": "6751beb2698fae14cdcfe101",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost51",
+        "clickDateTime": "2024-10-13T09:13:09.396Z",
+        "claimDateTime": "2024-10-13T18:23:20.524Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost52": {
+        "_id": "6751beb2698fae14cdcfe11a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost52",
+        "clickDateTime": "2024-10-15T06:07:12.160Z",
+        "claimDateTime": "2024-10-15T08:58:30.325Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost53": {
+        "_id": "6751beb2698fae14cdcfe132",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost53",
+        "clickDateTime": "2024-10-21T12:22:33.632Z",
+        "claimDateTime": "2024-10-21T17:47:07.698Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost55": {
+        "_id": "6751beb2698fae14cdcfe155",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost55",
+        "clickDateTime": "2024-10-30T10:59:03.475Z",
+        "claimDateTime": "2024-10-30T14:20:58.758Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost56": {
+        "_id": "6751beb2698fae14cdcfe16e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost56",
+        "clickDateTime": "2024-10-31T03:32:45.163Z",
+        "claimDateTime": "2024-10-31T12:28:54.514Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost58": {
+        "_id": "6751beb2698fae14cdcfe17c",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost58",
+        "clickDateTime": "2024-11-05T04:51:50.714Z",
+        "claimDateTime": "2024-11-05T05:07:11.646Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost59": {
+        "_id": "6751beb2698fae14cdcfe197",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost59",
+        "clickDateTime": "2024-11-11T03:46:58.885Z",
+        "claimDateTime": "2024-11-11T15:40:37.831Z",
+        "totalCurrencySoftAwarded": 500000,
+        "__v": 0
+    },
+    "twitterQuotePost60": {
+        "_id": "6751beb2698fae14cdcfe1af",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterQuotePost60",
+        "clickDateTime": "2024-11-19T16:09:15.113Z",
+        "__v": 0
+    },
+    "twitterRaid301024": {
+        "_id": "6751beb2698fae14cdcfe16f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "twitterRaid301024",
+        "clickDateTime": "2024-10-31T03:33:35.057Z",
+        "claimDateTime": "2024-10-31T03:33:58.948Z",
+        "totalCurrencySoftAwarded": 777777,
+        "__v": 0
+    },
+    "vipGoldPerk": {
+        "_id": "6751beb2698fae14cdcfe0fe",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "vipGoldPerk",
+        "clickDateTime": "2024-10-13T06:27:39.324Z",
+        "__v": 0
+    },
+    "visitBazarTON": {
+        "_id": "6751beb2698fae14cdcfe13e",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "visitBazarTON",
+        "clickDateTime": "2024-10-22T20:51:23.211Z",
+        "claimDateTime": "2024-10-22T20:51:35.015Z",
+        "totalCurrencySoftAwarded": 200000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo1": {
+        "_id": "6751beb2698fae14cdcfe136",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo1",
+        "clickDateTime": "2024-10-21T12:23:16.661Z",
+        "claimDateTime": "2024-10-21T12:23:24.840Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo2": {
+        "_id": "6751beb2698fae14cdcfe15a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo2",
+        "clickDateTime": "2024-10-30T10:59:47.935Z",
+        "claimDateTime": "2024-10-30T10:59:55.357Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo3": {
+        "_id": "6751beb2698fae14cdcfe16a",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo3",
+        "clickDateTime": "2024-10-31T03:32:27.585Z",
+        "claimDateTime": "2024-10-31T03:33:23.194Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo4": {
+        "_id": "6751beb2698fae14cdcfe180",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo4",
+        "clickDateTime": "2024-11-05T04:52:43.736Z",
+        "claimDateTime": "2024-11-05T04:52:51.655Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo5": {
+        "_id": "6751beb2698fae14cdcfe193",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo5",
+        "clickDateTime": "2024-11-11T03:46:40.731Z",
+        "claimDateTime": "2024-11-11T03:46:44.096Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurTikTokVideo6": {
+        "_id": "6751beb2698fae14cdcfe1b2",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurTikTokVideo6",
+        "clickDateTime": "2024-11-19T16:10:01.239Z",
+        "claimDateTime": "2024-11-19T16:10:08.825Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo40": {
+        "_id": "6751beb2698fae14cdcfe099",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo40",
+        "clickDateTime": "2024-10-08T11:13:51.276Z",
+        "claimDateTime": "2024-10-08T11:13:57.266Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo42": {
+        "_id": "6751beb2698fae14cdcfe104",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo42",
+        "clickDateTime": "2024-10-13T09:14:32.924Z",
+        "claimDateTime": "2024-10-13T09:14:42.538Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo43": {
+        "_id": "6751beb2698fae14cdcfe11d",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo43",
+        "clickDateTime": "2024-10-15T06:08:08.822Z",
+        "claimDateTime": "2024-10-15T06:08:16.169Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo44": {
+        "_id": "6751beb2698fae14cdcfe135",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo44",
+        "clickDateTime": "2024-10-21T12:23:04.695Z",
+        "claimDateTime": "2024-10-21T12:23:12.650Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo45": {
+        "_id": "6751beb2698fae14cdcfe159",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo45",
+        "clickDateTime": "2024-10-30T10:59:38.981Z",
+        "claimDateTime": "2024-10-30T10:59:46.454Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo46": {
+        "_id": "6751beb2698fae14cdcfe16b",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo46",
+        "clickDateTime": "2024-10-31T03:32:31.654Z",
+        "claimDateTime": "2024-10-31T03:33:22.053Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo48": {
+        "_id": "6751beb2698fae14cdcfe17f",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo48",
+        "clickDateTime": "2024-11-05T04:52:33.785Z",
+        "claimDateTime": "2024-11-05T04:52:41.849Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo49": {
+        "_id": "6751beb2698fae14cdcfe194",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo49",
+        "clickDateTime": "2024-11-11T03:46:45.068Z",
+        "claimDateTime": "2024-11-11T03:46:52.405Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    },
+    "watchOurYouTubeVideo50": {
+        "_id": "6751beb2698fae14cdcfe1b1",
+        "user": "6700afc019c604ece17d307f",
+        "nameId": "watchOurYouTubeVideo50",
+        "clickDateTime": "2024-11-19T16:09:51.947Z",
+        "claimDateTime": "2024-11-19T16:09:59.626Z",
+        "totalCurrencySoftAwarded": 300000,
+        "__v": 0
+    }
+}
