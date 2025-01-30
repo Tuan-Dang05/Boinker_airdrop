@@ -1,56 +1,77 @@
 {
-    "AnimalsAndCoins125LevelReward3": {
-        "_id": "6751beb2698fae14cdcfe1ac",
-        "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoins125LevelReward3",
-        "clickDateTime": "2024-11-17T06:58:44.730Z",
-        "__v": 0
-    },
-    "AnimalsAndCoinsGiveawayReward1": {
-        "_id": "6751beb2698fae14cdcfe186",
-        "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoinsGiveawayReward1",
-        "clickDateTime": "2024-11-07T12:15:18.551Z",
-        "claimDateTime": "2024-11-07T17:59:26.230Z",
-        "totalWheelSpinsAwarded": 5,
-        "__v": 0
-    },
-    "AnimalsAndCoinsGiveawayReward2": {
-        "_id": "6751beb2698fae14cdcfe1a9",
-        "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoinsGiveawayReward2",
-        "clickDateTime": "2024-11-16T05:41:58.231Z",
-        "claimDateTime": "2024-11-16T05:42:07.048Z",
-        "totalWheelSpinsAwarded": 6,
-        "__v": 0
-    },
-    "AnimalsAndCoinsInstall": {
-        "_id": "6751beb2698fae14cdcfe09c",
-        "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoinsInstall",
-        "clickDateTime": "2024-10-08T11:14:15.857Z",
-        "claimDateTime": "2024-11-07T17:59:30.328Z",
-        "totalWheelSpinsAwarded": 7,
-        "__v": 0
-    },
-    "AnimalsAndCoinsIsland125": {
-        "_id": "6751beb2698fae14cdcfe0a0",
-        "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoinsIsland125",
-        "clickDateTime": "2024-10-08T11:27:06.093Z",
-        "__v": 0
-    },
     "AnimalsAndCoinsIsland250": {
-        "_id": "6751beb2698fae14cdcfe0a2",
-        "user": "6700afc019c604ece17d307f",
         "nameId": "AnimalsAndCoinsIsland250",
-        "clickDateTime": "2024-10-08T11:29:07.810Z",
-        "__v": 0
     },
-    "AnimalsAndCoinsIsland3": {
+     "TwitterLikePost4": {
+        "nameId": "TwitterLikePost4",
+    },
+     "TON%20Fest%20X%20follow": {
+        "nameId": "TON%20Fest%20X%20follow",
+    },
+     "TON%20Fest%20X%20follow": {
+        "nameId": "TON%20Fest%20X%20follow",
+    },
+     "twitterQuotePost69": {
+        "nameId": "twitterQuotePost69",
+    },
+     "twitterLikeShitcoinaire13": {
+        "nameId": "twitterLikeShitcoinaire13",
+    },
+     "TON%20Fest%20tg%20channel": {
+        "nameId": "TON%20Fest%20tg%20channel",
+    },
+     "KittVerse": {
+        "nameId": "KittVerse",
+    },
+     "JoinDuckMyDuck": {
+        "nameId": "JoinDuckMyDuck",
+    },
+     "Mouse%20Homies": {
+        "nameId": "Mouse%20Homies",
+    },
+     "playGenkiMiner2": {
+        "nameId": "playGenkiMiner2",
+    },
+     "joinTsubasaQuest": {
+        "nameId": "joinTsubasaQuest",
+    },
+     "JoinKrypton": {
+        "nameId": "JoinKrypton",
+    },
+     "JoinGOATSdec": {
+        "nameId": "JoinGOATSdec",
+    },
+     "JoinMinerQuest1": {
+        "nameId": "JoinMinerQuest1",
+    },
+     "joinFoxCoin1": {
+        "nameId": "joinFoxCoin1",
+    },
+     "PlayDejenDog_3": {
+        "nameId": "PlayDejenDog_3",
+    },
+     "MeshQuest_2": {
+        "nameId": "MeshQuest_2",
+    },
+     "playTabizoo2": {
+        "nameId": "playTabizoo2",
+    },
+     "playPlaydeckBoinkersBooster": {
+        "nameId": "playPlaydeckBoinkersBooster",
+    },
+     "joinMegaMine": {
+        "nameId": "joinMegaMine",
+    },
+     "PlayPookie%20Chase": {
+        "nameId": "PlayPookie%20Chase",
+    },
+     "telegramJoinBoinkersNewsChannel": {
+        "nameId": "telegramJoinBoinkersNewsChannel",
+    },
+    "TON%20Fest%20Ticket": {
         "_id": "6751beb2698fae14cdcfe09d",
         "user": "6700afc019c604ece17d307f",
-        "nameId": "AnimalsAndCoinsIsland3",
+        "nameId": "TON%20Fest%20Ticket",
         "clickDateTime": "2024-10-08T11:14:24.288Z",
         "claimDateTime": "2024-11-08T04:04:25.598Z",
         "totalGameEnergyAwarded": 600,
