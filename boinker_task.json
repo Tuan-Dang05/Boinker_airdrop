@@ -1,4 +1,4 @@
-{
+[
     "AnimalsAndCoinsIsland250": {
         "nameId": "AnimalsAndCoinsIsland250",
     },
@@ -2574,4 +2574,4 @@
         "totalCurrencySoftAwarded": 300000,
         "__v": 0
     }
-}
+         ]
