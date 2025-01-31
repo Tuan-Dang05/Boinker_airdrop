@@ -1,4 +1,4 @@
-[
+{
     "AnimalsAndCoinsIsland250": {
         "nameId": "AnimalsAndCoinsIsland250",
     },
@@ -77,4 +77,4 @@
         "totalGameEnergyAwarded": 600,
         "__v": 0
     },
-         ]
+}
